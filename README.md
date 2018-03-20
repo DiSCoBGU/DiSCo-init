@@ -1,4 +1,6 @@
 # DiSCo
+![invitation](https://scontent.ftlv2-1.fna.fbcdn.net/v/t31.0-8/28947888_10215734866662619_7009771567892501172_o.jpg?oh=ad7389e03daa127d47ab153a8a820817&oe=5B329E55)
+
 From the First meetup on 25th March
 
 ## Welcome and Introduction
