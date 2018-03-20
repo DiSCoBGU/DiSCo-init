@@ -8,11 +8,9 @@
 
 ## For R Users
 
+* Installing R base [link](https://cloud.r-project.org/)
 
-# Link to RStudio Installation Instructions
-
-
-
+# RStudio Installation 
 *   Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 *   Download installer according to your operating system platform
 *   Just run the installer and you are there!
