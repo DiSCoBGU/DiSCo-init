@@ -17,5 +17,5 @@ For the First meetup on 25th March
 * If you dont want to install any of above you can use Kaggle kernel, which is free and allow 4 threads with 18 GB RAM.
 
 ## Other Links
-
+* [Link](https://github.com/DiSCoBGU/Practice-and-Discuss/blob/master/README.md#practice-and-discuss) For Reporting Issues or Initiate Discussion
 * [List of Free Data Science Books](https://github.com/DiSCoBGU/DiSCo-init/blob/master/free-data-science-books.md#free-data-science-books)
