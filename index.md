@@ -1,5 +1,3 @@
-# DiSCo
-
 Welcome to DiSCo Github page!
 Here you can find relevant links and codes for our work.
 Good luck to all of us!
