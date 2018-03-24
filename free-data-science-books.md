@@ -1,9 +1,7 @@
 # Free Data Science Books
 
-Originally presented on [LearnDataSci](www.learndatasci.com/free-books) and further inspired by [Free Programming Books](https://github.com/vhf/free-programming-books).
-
 * * *
-####Index
+#### Index
 *   [Data Science in General](#data-science-in-general)
 *   [Interviews with Data Scientists](#interviews-with-data-scientists)
 *   [Forming Data Science Teams](#forming-data-science-teams)
@@ -200,3 +198,5 @@ Originally presented on [LearnDataSci](www.learndatasci.com/free-books) and furt
     <br>_Reinhard Klette,_ 2010
 *   **[Artificial Intelligence A Modern Approach, 1st Edition](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)** 
     <br>_Stuart Russell,_ 1995
+
+Originally presented on [LearnDataSci](http://www.learndatasci.com/free-books) and further inspired by [Free Programming Books](https://github.com/vhf/free-programming-books).
