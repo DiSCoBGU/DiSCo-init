@@ -10,8 +10,12 @@ For the First meetup on 25th March
 
 ## Get ready to conquer! 
 
-[Link to setup instructions](https://github.com/DiSCoBGU/DiSCo-init/blob/master/setup.md)
+[Link to setup instructions](https://github.com/DiSCoBGU/DiSCo-init/blob/master/setup.md#you-can-use-language-of-your-preference)
 * Signup Kaggle Account
 * Install RStudio (optional) 
 * Install Anaconda with python 3.6 (optional)
 * If you dont want to install any of above you can use Kaggle kernel, which is free and allow 4 threads with 18 GB RAM.
+
+## Other Links
+
+* [List of Free Data Science Books](https://github.com/DiSCoBGU/DiSCo-init/blob/master/free-data-science-books.md#free-data-science-books)
